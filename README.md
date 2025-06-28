@@ -1,6 +1,6 @@
 # Autoexaminator
 
-A screen capture tool that automatically extracts exam questions and provides AI-powered explanations using Google's Gemini API.
+A screen capture and autogui tool that automatically extracts exam questions and provides AI-powered explanations using Google's Gemini API.
 
 ## ⚠️ Educational Use Only
 
