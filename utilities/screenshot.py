@@ -1,7 +1,8 @@
 from PIL import ImageGrab
+from os import getenv
 
 def shoot() -> str:
-    ss_loc = '/home/gkesh/Downloads/ss.jpg'
+    ss_loc = getenv("SCREENSHOT_LOC")
     
     try:
         ss_area = (100, 200, 1700, 700)
